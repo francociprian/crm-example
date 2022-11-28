@@ -33,15 +33,15 @@ const Home = () => {
       <div className="flex-[6_1_0%]">
         <Navbar />
         <div className="h-[800px] p-5 m-5 relative">
-          <div className=" my-4 max-w-xs">
+          {/* <div className=" my-4 max-w-xs">
             <div className="search flex items-center justify-between border-[0.5px] border-gray-200 p-1">
               <input className=" border-none outline-none bg-transparent" type="text" placeholder="Search..." />
               <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor" className="w-5 h-5">
                 <path strokeLinecap="round" strokeLinejoin="round" d="M21 21l-5.197-5.197m0 0A7.5 7.5 0 105.196 5.196a7.5 7.5 0 0010.607 10.607z" />
               </svg>
             </div>
-          </div>
-          <table className="border-collapse border border-gray-200 table-auto">
+          </div> */}
+          <table className="border-collapse border border-gray-200 table-auto mx-auto">
             <thead className='p-2 border border-gray-300 text-xs'>
               <tr>
                 <th className="px-4 py-0.5 border border-gray-200"></th>

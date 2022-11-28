@@ -35,7 +35,7 @@ const FormEditUser = ({ valuesUser }) => {
       }}
     >
       {({ handleChange, handleSubmit, handleBlur, errors, touched }) => (
-        <Form onSubmit={handleSubmit}>
+        <Form onSubmit={handleSubmit} className=' max-w-7xl mx-auto'>
           <div className="max-w-4xl">
 
             <div className='py-6 my-6 '>

@@ -70,7 +70,7 @@ return (
     <div className="flex-[6_1_0%]">
       <Navbar />
       <div className="h-[800px] p-5 m-5">
-        <div className="max-w-3xl flex justify-between items-center mb-4">
+        <div className=" max-w-7xl flex justify-between items-center mb-4">
           <h1 className="text-2xl text-red-500">
             Edit User
           </h1>
