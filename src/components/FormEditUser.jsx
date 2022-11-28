@@ -1,5 +1,5 @@
 import { Formik, Form, Field } from 'formik';
-import { updateUser } from '../clients';
+import { updateUser } from '../Api';
 import { useNavigate } from 'react-router-dom';
 
 const FormEditUser = ({ valuesUser }) => {

@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import { useNavigate, useParams } from "react-router-dom";
-import { editUsers } from "../clients";
+import { editUsers } from "../Api";
 import Sidebar from "../components/Sidebar";
 import Navbar from "../components/Navbar";
 import FormEditUser from '../components/FormEditUser'

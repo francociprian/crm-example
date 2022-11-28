@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import Sidebar from "../components/Sidebar";
 import Navbar from "../components/Navbar";
-import { getProducts } from "../clients";
+import { getProducts } from "../Api";
 import { useNavigate } from "react-router-dom";
 
 const Products = () => {

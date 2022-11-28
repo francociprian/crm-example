@@ -1,5 +1,5 @@
 import { Formik, Form, Field } from 'formik';
-import { addUser } from '../clients';
+import { addUser } from '../Api';
 import { useNavigate } from 'react-router-dom';
 
 const NewUserForm = () => {

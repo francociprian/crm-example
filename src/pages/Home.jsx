@@ -1,10 +1,10 @@
 import React, { useEffect, useState } from "react";
 import { useNavigate } from "react-router-dom";
-import { getUsers } from "../clients";
+import { getUsers } from "../Api";
 import Sidebar from "../components/Sidebar";
 import Navbar from "../components/Navbar";
 import UserCard from "../components/UserCard";
-import { deleteUser } from '../clients';
+import { deleteUser } from '../Api';
 
 const Home = () => {
   const navigate = useNavigate();
