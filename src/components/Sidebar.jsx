@@ -32,7 +32,7 @@ const Sidebar = () => {
     <div className="min-h-screen bg-white">
       <div 
         // className={` ${open ? "w-72" : "w-20 "} bg-dark-purple h-screen p-5 relative duration-500`} 
-        className=" w-60 bg-dark-purple h-screen p-5 relative duration-500"
+        className="w-48 bg-dark-purple h-screen p-5 relative duration-500"
         >
         <div className="flex gap-x-4 items-center">
           <h1 className='text-white origin-left font-medium text-xl duration-200'>CRM<span className={!open && "hidden"}>Admin</span></h1>

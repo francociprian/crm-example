@@ -19,7 +19,7 @@
       "email": "john@gmail.com",
       "phone": "1-570-236-7033",
       "image": "https://randomuser.me/api/portraits/med/men/50.jpg",
-      "status": "Inactive",
+      "status": "Active",
       "job": "Software Engineer",
       "id": 1
     },
@@ -57,17 +57,17 @@
         "number": 86,
         "zipcode": "29567-1452"
       },
-      "status": "Active",
-      "id": 3,
-      "email": "kevin@gmail.com",
       "username": "kevinryan",
-      "job": "Marketing",
-      "image": "https://randomuser.me/api/portraits/med/men/24.jpg",
       "name": {
         "firstname": "kevin",
         "lastname": "ryan"
       },
-      "phone": "1-567-094-1345"
+      "email": "kevin@gmail.com",
+      "phone": "1-567-094-1345",
+      "image": "https://randomuser.me/api/portraits/med/men/24.jpg",
+      "status": "Active",
+      "job": "Product Management",
+      "id": 3
     },
     {
       "address": {
@@ -80,17 +80,17 @@
         "number": 6454,
         "zipcode": "98234-1734"
       },
-      "status": "Active",
-      "id": 4,
-      "email": "don@gmail.com",
       "username": "donero",
-      "job": "Marketing",
-      "image": "https://randomuser.me/api/portraits/med/men/26.jpg",
       "name": {
         "firstname": "don",
         "lastname": "romer"
       },
-      "phone": "1-765-789-6734"
+      "email": "don@gmail.com",
+      "phone": "1-765-789-6734",
+      "image": "https://randomuser.me/api/portraits/med/men/26.jpg",
+      "status": "Inactive",
+      "job": "Marketing",
+      "id": 4
     },
     {
       "address": {
@@ -172,17 +172,17 @@
         "number": 1342,
         "zipcode": "96378-0245"
       },
-      "status": "Inactive",
-      "id": 8,
-      "email": "william@gmail.com",
       "username": "hopkins",
-      "job": "Marketing",
-      "image": "https://randomuser.me/api/portraits/med/men/32.jpg",
       "name": {
         "firstname": "william",
         "lastname": "hopkins"
       },
-      "phone": "1-478-001-0890"
+      "email": "william@gmail.com",
+      "phone": "1-478-001-0890",
+      "image": "https://randomuser.me/api/portraits/med/men/32.jpg",
+      "status": "Inactive",
+      "job": "Marketing Digital",
+      "id": 8
     },
     {
       "address": {
@@ -229,29 +229,6 @@
         "lastname": "klein"
       },
       "phone": "1-104-001-4567"
-    },
-    {
-      "address": {
-        "geolocation": {
-          "lat": "",
-          "long": ""
-        },
-        "city": "Sinsacate",
-        "street": "Camino real ",
-        "number": 920,
-        "zipcode": 5221
-      },
-      "username": "francocip",
-      "name": {
-        "firstname": "Franco",
-        "lastname": "Ciprian"
-      },
-      "email": "franco@gmail.com",
-      "phone": "3525506452",
-      "image": "https://randomuser.me/api/portraits/med/men/20.jpg",
-      "status": "Active",
-      "job": "Software Engineer",
-      "id": 11
     }
   ],
   "clients": [
